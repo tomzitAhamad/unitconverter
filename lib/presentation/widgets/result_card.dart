@@ -37,4 +37,5 @@ class ResultCard extends StatelessWidget {
       },
     );
   }
+
 }
